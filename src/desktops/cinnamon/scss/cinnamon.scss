@@ -1,0 +1,17 @@
+$variant: 'dark';
+
+/* Base */
+@import "functions";
+@import "global";
+
+/* Main Components */
+@import 'components/all-components';
+
+/* Applets */
+@import 'applets/all-applets';
+
+/* Desklets */
+@import 'desklets/all-desklets';
+
+/* Extensions */
+@import 'extensions/all-extensions';
